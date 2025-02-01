@@ -89,3 +89,14 @@
 .flex.h-full.w-full.flex-col{
   background:white;
 }
+.hljs{
+  background: transparent !important;
+}
+
+a.peer\/menu-button {
+  color: #575757;
+}
+
+.data-\[active\=true\]\:font-medium[data-active="true"]{
+  color: black;
+}

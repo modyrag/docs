@@ -3,7 +3,6 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Book, Home, FileText } from 'lucide-react'
-import { Button } from '@/components/ui/button'
 import {
   Sidebar as ShadcnSidebar,
   SidebarContent,
